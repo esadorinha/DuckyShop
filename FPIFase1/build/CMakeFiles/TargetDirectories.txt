@@ -1,0 +1,3 @@
+/home/isadora-schwaab/Documentos/FPIFase1/build/CMakeFiles/FPIFase1.dir
+/home/isadora-schwaab/Documentos/FPIFase1/build/CMakeFiles/edit_cache.dir
+/home/isadora-schwaab/Documentos/FPIFase1/build/CMakeFiles/rebuild_cache.dir

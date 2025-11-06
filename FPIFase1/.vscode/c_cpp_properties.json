@@ -1,0 +1,22 @@
+
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/opencv4",  // Caminho do OpenCV
+                "/usr/include/x86_64-linux-gnu/qt5",  // Caminho do Qt
+                "/usr/include/x86_64-linux-gnu/qt5/QtWidgets",  // Inclui as bibliotecas de widgets do Qt
+                "/usr/include/x86_64-linux-gnu/qt5/QtGui",  // Para QPixmap e QImage
+                "/usr/include/x86_64-linux-gnu/qt5/QtCore"  // Inclui bibliotecas base do Qt
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
